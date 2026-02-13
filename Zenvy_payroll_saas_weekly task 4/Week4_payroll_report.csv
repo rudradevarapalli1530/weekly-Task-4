@@ -1,0 +1,21 @@
+Emp ID,Name,Department,Designation,Gross Salary,Total Deduction,Overtime Pay,Net Salary
+1001,Aarav,IT,Developer,0,0,0,0
+1002,Diya,HR,HR Executive,0,0,0,0
+1003,Rohan,Finance,Accountant,40000,0,0,40000
+1004,Sneha,IT,Developer,55000,8250,0,46750
+1005,Karan,Sales,Sales Exec,31400,3000,1400,28400
+1006,Meera,Marketing,Marketing Exec,32000,4800,0,27200
+1007,Vikram,IT,Senior Developer,0,0,0,0
+1008,Ananya,HR,HR Manager,60350,9000,350,51350
+1009,Rahul,Finance,Finance Manager,70000,10500,0,59500
+1010,Pooja,Sales,Sales Manager,67100,9750,2100,57350
+1011,Siddharth,IT,Tech Lead,100004199,13500,4200,99990699
+1012,Neha,Marketing,Marketing Manager,75000,11250,0,63750
+1013,Arjun,Finance,Senior Accountant,86750,12750,1750,74000
+1014,Kavya,HR,HR Executive,36350,5400,350,30950
+1015,Amit,Sales,Sales Exec,32000,4800,0,27200
+1016,Isha,IT,Developer,54450,7800,2450,46650
+1017,Manish,Marketing,Marketing Exec,34700,5100,700,29600
+1018,Ritu,HR,HR Executive,38000,5700,0,32300
+1019,Nikhil,Finance,Accountant,43750,6300,1750,37450
+1020,Priya,IT,Senior Developer,0,0,0,0

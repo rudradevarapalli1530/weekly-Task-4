@@ -1,0 +1,21 @@
+employee_id,employee_name,department,designation,base_salary,joining_date
+1001,Aarav,IT,Developer,-50000,31-01-2023
+1002,Diya,HR,HR Executive,35000,28-02-2023
+1003,Rohan,Finance,Accountant,40000,31-03-2023
+1004,Sneha,IT,Developer,55000,30-04-2023
+1005,Karan,Sales,Sales Exec,30000,31-05-2023
+1006,Meera,Marketing,Marketing Exec,32000,30-06-2023
+1007,Vikram,IT,Senior Developer,80000,31-07-2023
+1008,Ananya,HR,HR Manager,60000,31-08-2023
+1009,Rahul,Finance,Finance Manager,70000,30-09-2023
+1010,Pooja,Sales,Sales Manager,65000,31-10-2023
+1011,Siddharth,IT,Tech Lead,99999999,30-11-2023
+1012,Neha,Marketing,Marketing Manager,75000,31-12-2023
+1013,Arjun,Finance,Senior Accountant,85000,31-01-2024
+1014,Kavya,HR,HR Executive,36000,29-02-2024
+1015,Amit,Sales,Sales Exec,32000,31-03-2024
+1016,Isha,IT,Developer,52000,30-04-2024
+1017,Manish,Marketing,Marketing Exec,34000,31-05-2024
+1018,Ritu,HR,HR Executive,38000,30-06-2024
+1019,Nikhil,Finance,Accountant,42000,31-07-2024
+1020,Priya,IT,Senior Developer,78000,31-08-2024
